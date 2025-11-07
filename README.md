@@ -27,10 +27,7 @@ https://www.youtube.com/watch?v=DMWD7wfhgNY&list=PLnKe36F30Y4ZDNIOZ51sX25pWKQ1pk
 https://www.youtube.com/watch?v=mUQZ1qmKlLY
 
 - [x]  Projektantrag schreiben
-- [ ] C++ für vsc einrichten
-- [ ] Variable and Datatypes
-- [ ] Type conversion
-
-
-
+- [x] C++ für vsc einrichten
+- [x] Variable and Datatypes
+- [x] Type conversion
 
