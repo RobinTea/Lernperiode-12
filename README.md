@@ -8,7 +8,7 @@ In dieser Lernperiode möchte ich einen C++ DeepDive machen, 7 Wochen werde ich 
 ## Projekt <br>
 Ich werde den ganzen https://adventofcode.com/ 2025 auf C++ versuchen zu lösen um meine Fähigkeiten zu verbessern
 
-epics:
+epics: <br>
 Als HR Mitarbeiter möchte ich sehen was diese Person kann, damit ich ihn einschätzen kann. <br>
 Als HR Mitarbeiter möchte ich erkennen ob die Person gut mit neuen Technologien umgehen kann, damit ich weiss ob ich ihn einstellen sollte. <br>
 Als HR Mitarbeiter möchte ich Code der Person sehen , damit ich ihn einschätzen kann. <br>
