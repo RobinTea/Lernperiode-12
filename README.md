@@ -5,6 +5,10 @@
 ## Technologie C++ <br>
 In dieser Lernperiode möchte ich einen C++ DeepDive machen, 7 Wochen werde ich nun an diesem Skill arbeiten. Ich habe gehört, dass C++ die schnellste Porgrammiersprache sei. Bis jetzt kenne ich nur Python und C# und ich möchte meine Kompetenzen erweitern.
 
+<br>
+
+Edit: Der Grund warum C++ schneller als zB. Python ist, ist dass der Weg wie sie ausgeführt werden anderst ist. CPP wrid zusammen gestellt dann erst ausgeführt im gegensatz zu Python die Linie zu Linie gelesen und Ausgeführt wird
+
 ## Projekt <br>
 Ich werde den ganzen https://adventofcode.com/ 2025 auf C++ versuchen zu lösen um meine Fähigkeiten zu verbessern
 
