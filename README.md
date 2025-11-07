@@ -3,11 +3,18 @@
 07.11.2025 - 19.12.2025
 
 Technologie C++
-Ich habe gehört, dass C++ die schnellste Porgrammiersprache sei und das Weckt mein interesse.
+Ich habe gehört, dass C++ die schnellste Porgrammiersprache sei. Bis jetzt kenne ich nur Python und C# und ich möchte meine Kompetenzen erweitern.
 
 Projekt
 Ich werde den ganzen https://adventofcode.com/ 2025 auf C++ versuchen zu lösen um meine Fähigkeiten zu verbessern
 
+Als möchte ich, damit
+Als möchte ich, damit
+Als möchte ich, damit
+Als möchte ich, damit
+Als möchte ich, damit
+Als möchte ich, damit
+Als möchte ich, damit
 
 ## 07.11
 
