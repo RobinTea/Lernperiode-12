@@ -13,12 +13,12 @@ Edit: Der Grund warum C++ schneller als zB. Python ist, ist dass der Weg wie sie
 Ich werde den ganzen https://adventofcode.com/ 2025 auf C++ versuchen zu lösen um meine Fähigkeiten zu verbessern
 
 epics: <br>
-Als HR Mitarbeiter möchte ich sehen was diese Person kann, damit ich ihn einschätzen kann. <br>
-Als HR Mitarbeiter möchte ich erkennen ob die Person gut mit neuen Technologien umgehen kann, damit ich weiss ob ich ihn einstellen sollte. <br>
-Als HR Mitarbeiter möchte ich Code der Person sehen , damit ich ihn einschätzen kann. <br>
-Als Schüler möchte ich meine Fähigkeiten erweitern, damit ich etwas mehr auf meiner Bewerbung habe. <br>
-Als Schüler möchte ich Adventofcode einmal erfolgreich erarbeiten, damit ich Code ohne unterstützung von KI vorzeigen kann. <br>
-Als Schüler möchte ich mich auf 24 bestimmte Aufgaben vorbereiten, damit ich sie meistern kann. <br>
+- Als HR Mitarbeiter möchte ich sehen was diese Person kann, damit ich ihn einschätzen kann. <br>
+- Als HR Mitarbeiter möchte ich erkennen ob die Person gut mit neuen Technologien umgehen kann, damit ich weiss ob ich ihn einstellen sollte. <br>
+- Als HR Mitarbeiter möchte ich Code der Person sehen , damit ich ihn einschätzen kann. <br>
+- Als Schüler möchte ich meine Fähigkeiten erweitern, damit ich etwas mehr auf meiner Bewerbung habe. <br>
+- Als Schüler möchte ich Adventofcode einmal erfolgreich erarbeiten, damit ich Code ohne unterstützung von KI vorzeigen kann. <br>
+- Als Schüler möchte ich mich auf 24 bestimmte Aufgaben vorbereiten, damit ich sie meistern kann. <br>
 
 
 ## 07.11
