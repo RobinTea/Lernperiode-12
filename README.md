@@ -24,7 +24,7 @@ epics: <br>
 ## 07.11
 
 https://www.youtube.com/watch?v=DMWD7wfhgNY&list=PLnKe36F30Y4ZDNIOZ51sX25pWKQ1pkpTE <br>
-https://www.youtube.com/watch?v=mUQZ1qmKlLY
+~https://www.youtube.com/watch?v=mUQZ1qmKlLY~ <- rech alt und eher für Anfänger, daher das obere
 
 - [x]  Projektantrag schreiben
 - [x] C++ für vsc einrichten
