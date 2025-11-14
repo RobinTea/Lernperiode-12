@@ -37,8 +37,21 @@ https://www.youtube.com/watch?v=mUQZ1qmKlLY
 *Code im Ordner*
 
 - [x] Arithmetic Operations / increment decrement
-- [x] if else 
-- [ ] user inputs / Arrays
+- [x] if else / Boolean
+- [x] user inputs
+- [ ] Arrays
+
+Heute habe ich die Mathematische Operationen und if else clauses angeschaut. Ausserdem konnte ich die Funktionen von einer main file starten. Ich denke ich habe genug 
+
+
+## 21.11
+
+Um ein Fertiges Projekt in dieser Lernperiode vorzeigen zu können, werde ich mit den Technologien einen Taschenrechner in C++ programmieren. Nichts kompliziertes, dass ich mindestens ein Abgeschlossenes Projekt habe. Das nächste Mal ist die letzte Vorbereitungsphase für AdventOfCode, ich werde anschauen wie ich files lesen und verarbeiten kann (zB. in einer Array einfügen).
 - [ ] Calculator in Terminal
+<br>
+- [ ] Plus, Minus, Multiplikation und Division
+- [ ] Modulo
+- [ ] Muss Kommastellen erlauben
+- [ ] Muss Fehler catchen können
 
 
