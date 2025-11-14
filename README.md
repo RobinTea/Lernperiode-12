@@ -31,3 +31,12 @@ https://www.youtube.com/watch?v=mUQZ1qmKlLY
 - [x] Variable and Datatypes
 - [x] Type conversion
 
+
+## 14.11
+
+- [ ] Arithmetic Operations
+- [ ] if else / increment decrement
+- [ ] user inputs / Arrays
+- [ ] Calculator in Terminal
+
+
