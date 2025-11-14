@@ -46,7 +46,9 @@ Heute habe ich die Mathematische Operationen und if else clauses angeschaut. Aus
 
 ## 21.11
 
-Um ein Fertiges Projekt in dieser Lernperiode vorzeigen zu können, werde ich mit den Technologien einen Taschenrechner in C++ programmieren. Nichts kompliziertes, dass ich mindestens ein Abgeschlossenes Projekt habe. Das nächste Mal ist die letzte Vorbereitungsphase für AdventOfCode, ich werde anschauen wie ich files lesen und verarbeiten kann (zB. in einer Array einfügen).
+Um ein Fertiges Projekt in dieser Lernperiode vorzeigen zu können, werde ich mit den Technologien einen Taschenrechner in C++ programmieren. Nichts kompliziertes, dass ich mindestens ein Abgeschlossenes Projekt habe.
+<br> Das nächste Mal ist die letzte Vorbereitungsphase für AdventOfCode, ich werde anschauen wie ich files lesen und verarbeiten kann (zB. in einer Array einfügen).
+
 - [ ] Calculator in Terminal
 
 <br>
