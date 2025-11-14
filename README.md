@@ -34,8 +34,10 @@ https://www.youtube.com/watch?v=mUQZ1qmKlLY
 
 ## 14.11
 
-- [ ] Arithmetic Operations
-- [ ] if else / increment decrement
+*Code im Ordner*
+
+- [x] Arithmetic Operations / increment decrement
+- [x] if else 
 - [ ] user inputs / Arrays
 - [ ] Calculator in Terminal
 
