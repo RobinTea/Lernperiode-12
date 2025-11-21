@@ -49,13 +49,17 @@ Heute habe ich die Mathematische Operationen und if else clauses angeschaut. Aus
 Um ein Fertiges Projekt in dieser Lernperiode vorzeigen zu können, werde ich mit den Technologien einen Taschenrechner in C++ programmieren. Nichts kompliziertes, dass ich mindestens ein Abgeschlossenes Projekt habe.
 <br> Das nächste Mal ist die letzte Vorbereitungsphase für AdventOfCode, ich werde anschauen wie ich files lesen und verarbeiten kann (zB. in einer Array einfügen).
 
-- [ ] Calculator in Terminal
+- [x] Calculator in Terminal
 
 <br>
 
-- [ ] Plus, Minus, Multiplikation und Division
-- [ ] Modulo
-- [ ] Muss Kommastellen erlauben
-- [ ] Muss Fehler catchen können
+- [x] Plus, Minus, Multiplikation und Division
+- [x] Switch / Case
+- [x] Muss Kommastellen erlauben
+- [x] Muss Fehler catchen können
+
+
+## 28.11
+
 
 
