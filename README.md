@@ -61,5 +61,7 @@ Um ein Fertiges Projekt in dieser Lernperiode vorzeigen zu können, werde ich mi
 
 ## 28.11
 
+Ich arbeite an https://adventofcode.com/2024 vom letzten Jahr.
+
 
 
