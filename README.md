@@ -115,5 +115,8 @@ Ich hatte schwierigkeiten die Buchstaben von den Nummern zu trennen. Jetzt wo ic
             remove_if(num.begin(), num.end(), ::isalpha),
             num.end()
         );
-Der Rest des Codes ist im Advent of Code Ordner.
+Der Rest des Codes ist im *advent of code* Ordner.
+
+<img width="965" height="321" alt="image" src="https://github.com/user-attachments/assets/598fc272-5eed-4adf-ae70-589456b5dbe8" />
+
 
