@@ -63,5 +63,57 @@ Um ein Fertiges Projekt in dieser Lernperiode vorzeigen zu können, werde ich mi
 
 Ich arbeite an https://adventofcode.com/2024 vom letzten Jahr.
 
+## 05.12.25
 
+Advent of Code 2025 hat begonnen und ich werde heute die erste Aufgabe Lösen.
+
+Aufgabe:
+Es gibt eine Drehscheibe von 0-99. Wieviel Mal sie gedereht wird, steht in der Input Datei. Jedes Mal wenn sie auf Null stehen bleibt, muss das gezählt werden. Das Totale davon, ist das Passwort. 
+
+Info:
+Drehscheibe startet bei 50.
+
+input example:
+L68
+L30
+R48
+L5
+R60
+
+
+Pseudocode:
+```
+input string txt
+var int dial 50
+var int passcode
+
+for each line in txt
+
+if L
+remove L - convert int num
+minus in dial of amount txt
+
+for num i 	//loop
+
+if dial < 0
++99
+
+else R
+remove R - convert int
+plus in dial of amount txt
+if dial > 99
+-99
+
+if dial = 0
+passcode++
+```
+
+Ich hatte schwierigkeiten die Buchstaben von den Nummern zu trennen. Jetzt wo ich nochmal überlege hätte ich einfach den ersten char entfernen können, habe aber folgenden Code benutzt.
+        
+        //remove letter in list num
+        num.erase( 
+            remove_if(num.begin(), num.end(), ::isalpha),
+            num.end()
+        );
+Der Rest des Codes ist im Advent of Code Ordner.
 
