@@ -108,7 +108,7 @@ if dial = 0
 passcode++
 ```
 
-Ich hatte schwierigkeiten die Buchstaben von den Nummern zu trennen. Jetzt wo ich nochmal überlege hätte ich einfach den ersten char entfernen können, habe aber folgenden Code benutzt.
+Ich hatte schwierigkeiten die Buchstaben von den Nummern zu trennen. Jetzt wo ich nochmal überlege hätte ich einfach den ersten char entfernen können, habe aber folgenden Code benutzt, den ich gefunden habe.
         
         //remove letter in list num
         num.erase( 
