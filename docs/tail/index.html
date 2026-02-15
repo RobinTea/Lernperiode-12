@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Tailwind</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="min-h-screen flex flex-col">
+  
+  <!-- Header -->
+  <header class="bg-gray-600 text-white shadow-lg">
+    <div class="container mx-auto px-4 py-6">
+      <div class="flex justify-between items-center">
+        <h1 class="text-2xl font-bold">Tailwind introduction</h1>
+        <nav>
+          <ul class="flex space-x-6">
+            <li><a href="../index.html" class="hover:text-blue-200">Home</a></li>
+            <li><a href="#" class="hover:text-blue-200">About</a></li>
+            <li><a href="#" class="hover:text-blue-200">Services</a></li>
+            <li><a href="#" class="hover:text-blue-200">Contact</a></li>
+          </ul>
+        </nav>
+      </div>
+    </div>
+  </header>
+
+  <!-- Main Body -->
+  <main class="bg-blue-100 flex-grow">
+    <div class="container mx-auto px-4 py-12">
+      <h1 class="text-6xl font-bold text-gray-800 mb-10">Welcome</h1>
+      <p class="text-lg text-gray-600 mb-6 hover:text-black hover:font-bold">
+        This is a basic Tailwind CSS template with a header, body, and footer.
+      </p>
+      
+      <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
+        <div class="bg-white p-10 rounded-lg shadow-md hover:bg-orange-300">
+          <h3 class="text-xl font-semibold text-gray-800 mb-3">Feature One</h3>
+          <p class="text-gray-600">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam</p>
+        </div>
+        <div class="bg-white p-10 rounded-lg shadow-md hover:bg-orange-300">
+          <h3 class="text-xl font-semibold text-gray-800 mb-3">Feature Two</h3>
+          <p class="text-gray-600">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam</p>
+        </div>
+        <div class="bg-white p-10 rounded-lg shadow-md hover:bg-orange-300">
+          <h3 class="text-xl font-semibold text-gray-800 mb-3">Feature Three</h3>
+          <p class="text-gray-600">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam</p>
+        </div>
+      </div>
+
+      <div class="mt-10 flex justify-center items-center"><a href="../index.html" class="text-5xl bg-gray-400 px-60 py-10 mt-10 rounded-full hover:bg-red-500">
+        BIG RED BUTTON
+      </a></div>
+
+    </div>
+  </main>
+
+  <!-- Footer -->
+  <footer class="bg-gray-800 text-white">
+    <div class="container mx-auto px-4 py-6">
+      <div class="flex flex-col md:flex-row justify-between items-center">
+        <p class="text-sm">&copy; 2026 My Website. All rights reserved.</p>
+        <div class="flex space-x-4 mt-4 md:mt-0">
+          <a href="#" class="hover:text-gray-400">Privacy Policy</a>
+          <a href="#" class="hover:text-gray-400">Terms of Service</a>
+          <a href="#" class="hover:text-gray-400">Contact</a>
+        </div>
+      </div>
+    </div>
+  </footer>
+
+</body>
+</html>
